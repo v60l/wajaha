@@ -1,10 +1,10 @@
 
 :root{
   --bg:#ad9670;
-  --card:#111111;
+  --card:#4d3016;
   --accent:#4d3016;
-  --muted:#4d3016;
-  --glass: rgba(255,255,255,0.05);
+  --muted:#111111;
+  --glass: rgba(255,255,255,05);
   --radius:12px;
   font-family: 'Tahoma', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial;
 }
