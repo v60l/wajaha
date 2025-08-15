@@ -11,14 +11,14 @@
 *{box-sizing:border-box;margin:0;padding:0}
 body{background-color:var(--bg);color:var(--accent);line-height:1.6;min-height:100vh}
 .container{max-width:1100px;margin:0 auto;padding:28px}
-.site-header{position:sticky;top:0;background:#4d3016;padding:10px 0;background: url('6F8BE90F-75F3-45F8-828A-688D36E91D82.jpeg') center/cover no-repeat;z-index:100;border-bottom:400px solid var(--glass)}
+.site-header{position:sticky;top:0;background:#4d3016;padding:10px 0;background: url('6F8BE90F-75F3-45F8-828A-688D36E91D82.jpeg') center/cover no-repeat;z-index:50;border-bottom:200px solid var(--glass)}
 .site-header .container{display:flex;align-items:center;justify-content:space-between}
 .logo{display:flex;align-items:center;gap:12px}
 .logo-img{width:60px;height:60px}
 .brand{font-weight:700;font-size:20px;color:var(--accent)}
 .nav a{color:var(--muted);text-decoration:none;margin-left:18px;font-weight:600}
 .nav a:hover{color:var(--accent)}
-.hero{padding:48px 0}
+.hero{padding:20px 0}
 .hero-inner{display:flex;gap:24px;align-items:center;justify-content:space-between}
 .hero-text{flex:1}
 .hero-art{flex:1;display:flex;justify-content:center}
